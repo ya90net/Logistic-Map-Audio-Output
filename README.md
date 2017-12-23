@@ -6,7 +6,7 @@
 
 Logistic Map Audio Output is an application to genarate noise from [Logistic Map](https://en.wikipedia.org/wiki/Logistic_map).
 
-This application is made from of [openFrameworks's example](https://github.com/openframeworks/openFrameworks/tree/master/examples/sound/audioOutputExample).
+This application is made with [openFrameworks](https://github.com/openframeworks/).
 
 ## Demo movie
 
